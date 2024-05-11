@@ -1,6 +1,11 @@
 #include "SoftwareSerial.h"
 #include "DFRobotDFPlayerMini.h"
 
+#############################################
+# Simulateur maquette DR400 par Flying Fox  #
+# merci à https://forum.arduino.cc/u/kamill #
+#############################################
+
 class Flasher
 {
   int ledPin;
